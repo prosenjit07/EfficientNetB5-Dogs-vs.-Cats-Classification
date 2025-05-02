@@ -1,7 +1,10 @@
 # Dogs vs Cats Image Classification
 
 **Author**: Prosenjit Chandra Biswas 
-**Email**: prosenjitbiswas983@gmail.com
+**Email**:  prosenjitbiswas983@gmail.com
+
+
+**KaggleCodeLink**: https://www.kaggle.com/code/prosenjit7/efficientnetb5-dogs-vs-cats-classification
 
 ## Project Overview
 This project implements an image classification model to distinguish between images of dogs and cats using deep learning techniques. The model was developed as part of a technical assessment for a Machine Learning Intern position.
